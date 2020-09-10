@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar el registro de un doctor y verificar el registro" skipped="0" tests="1" time="9.0" timestamp="2020-09-10 09:27:38"><testcase name="realizar el registro de un doctor"><failure message="Expected verificacion&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected verificacion
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected verificacion
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+Prueba.definitions.Definition.verificarElMensajeDeIngresoExitosoDelRegistro(Definition.java:47)&#13;
+✽.Verificar el mensaje de ingreso exitoso del registro "Datos guardados correctamente."(src/test/resources/Features/automatizacion_hopital.feature:9)&#13;
+</system-err></testcase></testsuite>

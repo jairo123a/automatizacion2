@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar el registro en el sitio web hospital y verificar el registro" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-10T19:09:32" hostname="DESKTOP-38Q90CF" time="35.694">
+  <properties/>
+  <testcase name="realizar el registro de un doctor" classname="Realizar el registro en el sitio web hospital y verificar el registro" time="12.947"/>
+  <testcase name="realizar el registro de un paciente" classname="Realizar el registro en el sitio web hospital y verificar el registro" time="8.479"/>
+  <testcase name="registrar un cita ." classname="Realizar el registro en el sitio web hospital y verificar el registro" time="11.839"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 10, 2020 2:09:33 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 14570
+Only local connections are allowed.
+sep 10, 2020 2:09:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+sep 10, 2020 2:09:48 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+sep 10, 2020 2:09:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+sep 10, 2020 2:09:56 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+sep 10, 2020 2:09:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>

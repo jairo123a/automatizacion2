@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5206003b-eae1-4f63-bf1f-e79b8100afca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fvabiCyWwBVs2JUjeSy0e2tfv3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\resources\webdrive" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="questions" />
+      <recent name="tasks" />
+      <recent name="userinterface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.dia 2 [test]">
+    <configuration name="Runner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Runner.Runner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerCitaMedica" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Prueba.Run.RunnerCitaMedica&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerPrueba" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Prueba.Run.RunnerPrueba&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="dia 2 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run cita" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba.Run.RunnerCCitaMedica" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run doctor" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba.Run.RunnerAPrueba" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run paciente" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba.Run.RunnerBPaciente" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba.Run.RunnerBPaciente" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.RunnerPrueba" />
+      <item itemvalue="Gradle.Runner" />
+      <item itemvalue="Gradle.dia 2 [test]" />
+      <item itemvalue="Gradle.RunnerCitaMedica" />
+      <item itemvalue="JUnit.Run cita" />
+      <item itemvalue="JUnit.Run doctor" />
+      <item itemvalue="JUnit.Run paciente" />
+      <item itemvalue="JUnit." />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.dia 2 [test]" />
+        <item itemvalue="Gradle.RunnerCitaMedica" />
+        <item itemvalue="Gradle.RunnerPrueba" />
+        <item itemvalue="Gradle.RunnerPrueba" />
+        <item itemvalue="Gradle.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5206003b-eae1-4f63-bf1f-e79b8100afca" name="Default Changelist" comment="" />
+      <created>1597101092896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597101092896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="57" key="#&lt;template&gt;_of_JUnit" timestamp="1599744272747">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="57" key="#&lt;template&gt;_of_JUnit/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599744272747" />
+    <state x="392" y="88" key="#Project_Structure" timestamp="1597101225347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597101225347" />
+    <state x="519" y="116" key="#RunnerPrueba" timestamp="1597103577668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="519" y="116" key="#RunnerPrueba/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103577668" />
+    <state x="397" y="122" key="#Unnamed" timestamp="1597103671112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="122" key="#Unnamed/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103671112" />
+    <state x="254" y="84" width="1093" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599764728964">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" width="1093" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599764728964" />
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1599756003087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599756003087" />
+    <state x="530" y="205" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599740221856">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="205" key="#com.intellij.ide.util.PackageChooserDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599740221856" />
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599755564148">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599755564148" />
+    <state x="514" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597102183204">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="514" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102183204" />
+    <state x="596" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597102167208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102167208" />
+    <state x="535" y="191" key="EnvironmentVariablesDialog" timestamp="1597102431603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="191" key="EnvironmentVariablesDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102431603" />
+    <state width="1557" height="230" key="GridCell.Tab.0.bottom" timestamp="1599764945474">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="230" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599764945474" />
+    <state width="1557" height="230" key="GridCell.Tab.0.center" timestamp="1599764945474">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="230" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599764945474" />
+    <state width="1557" height="230" key="GridCell.Tab.0.left" timestamp="1599764945474">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="230" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599764945474" />
+    <state width="1557" height="230" key="GridCell.Tab.0.right" timestamp="1599764945474">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="230" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1599764945474" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1597170276284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597170276284" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pruebas$RunnerPrueba.ic" NAME="RunnerPrueba Coverage Results" MODIFIED="1597103569341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
